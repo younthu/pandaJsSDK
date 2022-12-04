@@ -1,0 +1,20 @@
+{
+  "name": "panda",
+  "version": "1.0.0",
+  "description": "The js sdk for panda, https://github.com/younthu/panda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younthu/pandaJsSDK.git"
+  },
+  "keywords": ["panda"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/younthu/pandaJsSDK/issues"
+  },
+  "homepage": "https://github.com/younthu/pandaJsSDK#readme"
+}
